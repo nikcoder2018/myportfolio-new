@@ -11,7 +11,7 @@
                         <h1 class="text-uppercase">I am Nick Baguio</h1>
                         <h5 class="text-uppercase">Full Stack Developer</h5>
                         <div class="d-flex align-items-center">
-                            <a class="primary_btn" href="contact.html"><span>Hire Me</span></a>
+                            <a class="primary_btn" href="{{route('contact')}}"><span>Hire Me</span></a>
                             <a class="primary_btn tr-bg" href="cv.pdf"><span>Get CV</span></a>
                         </div>
                     </div>
